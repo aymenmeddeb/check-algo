@@ -1,0 +1,17 @@
+p=phrase
+x=:0
+x=length(p)
+
+v=:p(i)
+
+y=nbre de mots
+y=0
+for i=0,i<length(p),i++ p(i)="" et p(i)<>.
+y=y+1
+
+s=(a, e, i o, u, y)
+z=nbre voyelle=0
+for i=0,i<length(p),i++
+if p(i)=s z=z+1
+else z=0
+
